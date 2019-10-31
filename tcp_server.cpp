@@ -9,8 +9,6 @@
 #include <iostream> // std::cout
 #include <string>   // std::string, std::to_string
 
-#include "iolib.h" //自己编写的I/O库函数的函数声明
-
 using namespace std;
 #define MAX_LINE 602400
 
